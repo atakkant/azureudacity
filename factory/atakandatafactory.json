@@ -1,0 +1,9 @@
+{
+	"name": "atakandatafactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9016f77a-193a-4f2e-b4e4-3983bad81feb",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
